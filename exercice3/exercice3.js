@@ -11,6 +11,3 @@ else{
     document.getElementById('monDiv').innerHTML = "La variable x n'est pas strictement égale à la variable y";
 }
 
-if (x = 3++){
-    document.getElementById('monDiv').innerHTML = "La variable x + 3 ";
-}
