@@ -15,3 +15,5 @@ else{
     document.getElementById('monDiv').innerHTML = "La variable x n'est pas strictement égale à la variable y";
 }
 
+console.log(x);
+
