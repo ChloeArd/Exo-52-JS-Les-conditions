@@ -3,6 +3,10 @@
 let x = 2;
 let y = 2;
 
+if (x === y) {
+    x++;
+}
+
 if( x === y) {
     document.getElementById('monDiv').innerHTML = "La variable x est strictement égale à la variable y";
 }
